@@ -1,5 +1,4 @@
 layout: page
-title: "ABOUT-ME"
+title: About Me
 permalink: /aboutme
 
-insert info here
